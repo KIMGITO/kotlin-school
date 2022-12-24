@@ -44,8 +44,8 @@ However, this is only possible when you specify the type:*/
     print(fName) */
 
 
-    /*Kotlin data types */
-//=========================
+                                               /*Kotlin data types */
+                                           //=========================
     /*
 data types are written with first character as a upper case
 
@@ -106,8 +106,8 @@ var boo = 9
 //Logical
 // &&,||,!
  
-  /*Strings */
-//===========
+                                               /*Strings */
+                                             //===========
 //array of chars
 
 var homeTown = "Nairobi"
@@ -145,9 +145,10 @@ println(homeTown[0])//prints the value in the first index
     //A plus can alson be used too...
 
     println("Using plus func. "+myFname.plus(mySname))
+    
 
-                /*      CONTROL STRUCTURES,RAGE AND LOOPS */
-                // =============================================
+                                         /*      CONTROL STRUCTURES,RAGE AND LOOPS */
+                                         // =============================================
 
         // if condition in kotlin can be used to assign a value to a variable
         var time = 15;
@@ -173,8 +174,8 @@ println(homeTown[0])//prints the value in the first index
 
 
 
-                    /*LOOPS */
-                // ===========
+                                                          /*LOOPS */
+                                                      // ===========
     var i:Int = 5
     var j = 5
 
@@ -208,7 +209,8 @@ println(homeTown[0])//prints the value in the first index
        
     }
 
-            /*KOTLIN ARRAY */
+                                                      /*KOTLIN ARRAY */
+                                                     //=================
     //arrayOf()
 
     //access
